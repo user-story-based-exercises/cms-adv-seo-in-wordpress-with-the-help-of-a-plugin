@@ -24,3 +24,6 @@
 
 ### Acceptance Criteria
 - All pages and blog entries on the site feature a preview image and text
+
+#### Links
+https://my.skilldisplay.eu/en/skillset/514
